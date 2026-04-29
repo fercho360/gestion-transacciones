@@ -1,1 +1,12 @@
+com/eglobal/gestion_transacciones/entity/BancoEntity.class
+com/eglobal/gestion_transacciones/repository/BancoRepository.class
+com/eglobal/gestion_transacciones/service/impl/BancoServiceImpl.class
+com/eglobal/gestion_transacciones/dto/BancoResponse.class
 com/eglobal/gestion_transacciones/GestionTransaccionesApplication.class
+com/eglobal/gestion_transacciones/controller/BancoController.class
+com/eglobal/gestion_transacciones/repository/TransaccionRepository.class
+com/eglobal/gestion_transacciones/entity/TransaccionEntity.class
+com/eglobal/gestion_transacciones/service/impl/TransaccionServiceImpl.class
+com/eglobal/gestion_transacciones/service/BancoService.class
+com/eglobal/gestion_transacciones/service/TransaccionService.class
+com/eglobal/gestion_transacciones/utils/enums/TipoTransaccion.class
