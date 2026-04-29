@@ -1,1 +1,12 @@
-/Users/fernandovazquez/repos/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/GestionTransaccionesApplication.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/GestionTransaccionesApplication.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/controller/BancoController.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/dto/BancoResponse.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/entity/BancoEntity.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/entity/TransaccionEntity.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/repository/BancoRepository.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/repository/TransaccionRepository.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/service/BancoService.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/service/TransaccionService.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/service/impl/BancoServiceImpl.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/service/impl/TransaccionServiceImpl.java
+/Users/fernandovazquez/repos/Challenges/gestion-transacciones/src/main/java/com/eglobal/gestion_transacciones/utils/enums/TipoTransaccion.java
